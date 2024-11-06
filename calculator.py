@@ -5,3 +5,6 @@ penjumlahan = a + b + c
 pembagian = a / b
 print(penjumlahan)
 print(pembagian)
+perkalian = a * b
+
+
